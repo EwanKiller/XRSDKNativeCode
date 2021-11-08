@@ -1,0 +1,1 @@
+/Users/ewan/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi30 -fPIC -g -Wl,--fix-cortex-a8 -shared -Wl,-soname,libInputProviderSample.so -o libInputProviderSample.so CMakeFiles/InputProviderSample.dir/Input.cpp.o   -static-libstdc++ -latomic -lm 
